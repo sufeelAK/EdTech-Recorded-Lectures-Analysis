@@ -1,4 +1,4 @@
-# 📌 Project Overview: EdTech Recorded Lectures Analysis
+## 📌 Project Overview: EdTech Recorded Lectures Analysis
 
 Analyzed EdTech course data to find trends in views, skills, languages, and instructors. Built a Power BI dashboard with category-wise insights to help the startup improve recorded lectures, choose better course types, and boost learner engagement.
 
@@ -23,11 +23,6 @@ The most Important Emphasis should be category wise.
 8). Examine the relationship between course duration and the number of views to understand how the length of a course may influence viewer engagement and preferences for each category and sub-category, if course duration has a month (in each month only 60 hours of content ) and for flexible schedules make the timing as 200 hours.
 
 9). In the context of recorded lectures, we need to investigate whether the variety of skills offered within each category and subcategory has a measurable impact on viewership
-
-
-# 📊 Dataset Link:
-                 <a href="https://github.com/sufeelAK/EdTech-Recorded-Lectures-Analysis/blob/main/Online_Courses.csv"</a>
-
 
 
 # 🔍 Problem Statements / Business Questions Solved in the Project
@@ -98,6 +93,15 @@ More skill coverage = more views
 # ✅ Conclusion
 This project gives the EdTech company a clear path to grow.
 Now they can focus on the right categories, content, and instructors to boost user interest and learning outcomes.
+
+#Repository Structure: 
+
+. # 📊 Dataset Link:
+                 https://github.com/sufeelAK/EdTech-Recorded-Lectures-Analysis/blob/main/Online_Courses.csv <br />
+. Dashboard: https://github.com/sufeelAK/EdTech-Recorded-Lectures-Analysis/blob/main/EdTech%20startup%20BI%20Project.pbix <br />     
+. Images : Screenshorts of the Dashboardvfor easy preview.
+          ![Dashboard](https://github.com/user-attachments/assets/5a79d295-9391-4324-91b3-5eb03bd1d9d0)
+
 
 
 
