@@ -99,7 +99,7 @@ Now they can focus on the right categories, content, and instructors to boost us
 . # 📊 Dataset Link:
                  https://github.com/sufeelAK/EdTech-Recorded-Lectures-Analysis/blob/main/Online_Courses.csv <br />
 . Dashboard: https://github.com/sufeelAK/EdTech-Recorded-Lectures-Analysis/blob/main/EdTech%20startup%20BI%20Project.pbix <br />     
-. Images : Screenshorts of the Dashboardvfor easy preview.
+
           ![Dashboard](https://github.com/user-attachments/assets/5a79d295-9391-4324-91b3-5eb03bd1d9d0)
 
 
