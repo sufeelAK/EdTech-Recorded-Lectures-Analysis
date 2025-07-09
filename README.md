@@ -2,25 +2,53 @@
 
 Analyzed EdTech course data to find trends in views, skills, languages, and instructors. Built a Power BI dashboard with category-wise insights to help the startup improve recorded lectures, choose better course types, and boost learner engagement.
 
+# 🎯 Business Questions: 
+* Your task is to clean and analyse this data to uncover valuable insights. To ensure the startup can effectively leverage this information, you will create a dashboard  that presents following insights. Your analysis will help the company identify areas for improvement and opportunities for growth in their recorded lecture services.
+The most Important Emphasis should be category wise.
 
-I cleaned and analyzed the data to find category-wise trends in courses, languages, views, skills, and instructors. Then I built a Power BI dashboard to show all insights clearly.
+1). Examine the distribution of course types across categories to uncover trends and insights, enabling the client to strategically determine which course types to launch in specific categories for maximum impact and alignment with learner demand, also count the number of courses by category and sub-category.
 
-The goal was to help the company:
+2). Calculate the average number of views for each category, sub-category, and language to provide insights into viewer engagement patterns and inform strategic content development.
 
-Find the best-performing categories
+3). Identify the most commonly taught skills in today's educational landscape based on the data given based on category to ensure course offerings remain relevant and aligned with current job market demands.
 
-Choose the right course types and skills
+4). What is the distribution of various Languages  in which a particular course is  created?
 
-Understand user language preferences
+5). Determine the language preferences for each category based on viewer preferences, so that clients can optimise course accessibility and better align content with audience demand. Clients only want to analyse this data for the top 5 categories based on user preferences.
 
-See how subtitles and course length affect views
+6). Investigate the relationship between the availability of subtitles and the number of views for courses to determine how subtitle options may impact viewer engagement and accessibility.
 
-Identify top instructors to work with
+7). Identify the top three instructors for each category and subcategory based on ratings   to highlight educators who consistently deliver high-quality content and effectively engage learners so that they can be approached by your client to make content for them and make this visual as static.
 
-This project gave useful insights that will help the company grow and create better learning content for students.
+8). Examine the relationship between course duration and the number of views to understand how the length of a course may influence viewer engagement and preferences for each category and sub-category, if course duration has a month (in each month only 60 hours of content ) and for flexible schedules make the timing as 200 hours.
+
+9). In the context of recorded lectures, we need to investigate whether the variety of skills offered within each category and subcategory has a measurable impact on viewership
+
 
 # 📊 Dataset Link:
                   https://github.com/sufeelAK/EdTech-Recorded-Lectures-Analysis/blob/main/Online_Courses.csv
+
+
+
+# 🔍 Problem Statements / Business Questions Solved in the Project
+
+1).Count of courses by category and sub-category
+
+2).Avg. views per category, sub-category, and language
+
+3).Most taught skills in each category
+
+4).Distribution of languages across all courses
+
+5).Viewer’s language preference in top 5 categories
+
+6).Impact of subtitles on course views
+
+7).Top 3 instructors by category & sub-category (based on ratings)
+
+8).Relationship between course duration and views
+
+9).Does skill variety increase viewership in a category?
 
 
 
@@ -39,18 +67,6 @@ Improve user engagement and content quality
 Course count by category & sub-category
 
 Avg. views per category, sub-category & language
-
-# Top skills taught by category
-
-Language distribution & preferences (Top 5 categories)
-
-Impact of subtitles on views
-
-Top 3 instructors by category (static visual)
-
-Relation between course duration & views
-
-Skill variety vs. viewership
 
 # 🛠️ Tools Used
 Power BI
